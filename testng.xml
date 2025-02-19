@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Automation Suites">
+    <test verbose="2" preserve-order="true" name="Automation Testing">
+        <classes>
+            <class name="testcases.TC001_ValidateItemSortingByNameInMobilePageObjectTest"/>
+            <class name="testcases.TC002_VerifyProductPriceConsistencyBetweenListAndDetailsPageTest"/>
+            <class name="testcases.TC003_ValidateMaxQuantityRestrictionForCartItemsTest"/>
+            <class name="testcases.TC004_VerifyProductComparisonFunctionalityInMobilePageObjectTest"/>
+            <class name="testcases.TC005_VerifyAccountCreationAndWishlistSharingViaEmailTest"/>
+            <class name="testcases.TC006_VerifyProductPurchaseUsingRegisteredEmailTest"/>
+            <class name="testcases.TC007_VerifySavingPreviouslyPlacedOrderAsPDFTest"/>
+            <class name="testcases.TC008_VerifyUserCanChangeOrReorderPreviouslyAddedProductTest"/>
+            <class name="testcases.TC009_VerifyDiscountCouponFunctionalityTest"/>
+            <class name="testcases.TC010_ExportOrdersToCSVAndSendAsEmailAttachmentTest"/>
+        </classes>
+    </test>
+</suite>
