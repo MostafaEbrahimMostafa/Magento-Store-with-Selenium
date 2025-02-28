@@ -58,6 +58,10 @@ This automation project is a **testament to my growth in software testing** by i
 
 🔹 I’m excited to apply these skills to future projects to drive **quality and efficiency** in software testing. Let's connect and share insights on improving automation frameworks! 🚀
 
+## 🎥 Project Demo
+Check out the full project demonstration video here:  
+📺 **[Watch Demo](https://drive.google.com/file/d/1dcqHG1f8PLhnJg7GdlYLHh9r9j-lGiEn/view?usp=sharing)** 
+
 ## 📩 Contact
 For any inquiries, contributions, or collaborations, feel free to reach out:
 
